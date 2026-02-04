@@ -1,11 +1,32 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Plan Zajec//PL
+PRODID:-//Plan Zajec Szkola Filmowa//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 X-WR-CALNAME:Plan Zajęć - Szkoła Filmowa
+X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
-SUMMARY:⚠️ Brak zajęć w tym okresie
-DTSTART;TZID=Europe/Warsaw:20260203T185554
-DTEND;TZID=Europe/Warsaw:20260203T195554
-UID:info-202602031855@szkolafilmowa
+SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
+DTSTART;TZID=Europe/Warsaw:20260202T090000
+DTEND;TZID=Europe/Warsaw:20260202T103000
+UID:202602020900-63233@szkolafilmowa
+DESCRIPTION:Prowadzący: Ireneusz Grzyb
+LOCATION:M 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
+DTSTART;TZID=Europe/Warsaw:20260202T104500
+DTEND;TZID=Europe/Warsaw:20260202T121500
+UID:202602021045-63233@szkolafilmowa
+DESCRIPTION:Prowadzący: Ireneusz Grzyb
+LOCATION:M 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film współczesny (mgr Piotr Gorszczyński)
+DTSTART;TZID=Europe/Warsaw:20260218T110000
+DTEND;TZID=Europe/Warsaw:20260218T160000
+UID:202602181100-59474@szkolafilmowa
+DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
+LOCATION:KINO
 END:VEVENT
 END:VCALENDAR
