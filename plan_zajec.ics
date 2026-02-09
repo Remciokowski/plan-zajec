@@ -6,26 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Plan Zajęć - Szkoła Filmowa
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
-SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
-DTSTART;TZID=Europe/Warsaw:20260202T090000
-DTEND;TZID=Europe/Warsaw:20260202T103000
-UID:202602020900-88639@szkolafilmowa
-DESCRIPTION:Prowadzący: Ireneusz Grzyb
-LOCATION:M 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
-DTSTART;TZID=Europe/Warsaw:20260202T104500
-DTEND;TZID=Europe/Warsaw:20260202T121500
-UID:202602021045-88639@szkolafilmowa
-DESCRIPTION:Prowadzący: Ireneusz Grzyb
-LOCATION:M 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Film współczesny (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260218T110000
 DTEND;TZID=Europe/Warsaw:20260218T160000
-UID:202602181100-12631@szkolafilmowa
+UID:202602181100-73573@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:KINO
 END:VEVENT
