@@ -1,11 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Plan Zajec//PL
+PRODID:-//Plan Zajec Szkola Filmowa//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 X-WR-CALNAME:Plan Zajęć - Szkoła Filmowa
+X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
-SUMMARY:⚠️ Brak zajęć w tym okresie
-DTSTART;TZID=Europe/Warsaw:20260213T070106
-DTEND;TZID=Europe/Warsaw:20260213T080106
-UID:info-202602130701@szkolafilmowa
+SUMMARY:Film współczesny (mgr Piotr Gorszczyński)
+DTSTART;TZID=Europe/Warsaw:20260218T110000
+DTEND;TZID=Europe/Warsaw:20260218T160000
+UID:202602181100-50862@szkolafilmowa
+DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
+LOCATION:KINO
 END:VEVENT
 END:VCALENDAR
