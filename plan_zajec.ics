@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Film współczesny - realizacja 4 ćwiczenia - ZDJĘCIA (... ...)
 DTSTART;TZID=Europe/Warsaw:20260507T090000
 DTEND;TZID=Europe/Warsaw:20260507T170000
-UID:202605070900-41732@szkolafilmowa
+UID:202605070900-18881@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Film współczesny - realizacja 4 ćwiczenia - ZDJĘCIA (... ...)
 DTSTART;TZID=Europe/Warsaw:20260506T090000
 DTEND;TZID=Europe/Warsaw:20260506T170000
-UID:202605060900-41732@szkolafilmowa
+UID:202605060900-18881@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Film współczesny - realizacja 4 ćwiczenia - ZDJĘCIA (... ...)
 DTSTART;TZID=Europe/Warsaw:20260505T090000
 DTEND;TZID=Europe/Warsaw:20260505T170000
-UID:202605050900-41732@szkolafilmowa
+UID:202605050900-18881@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Film współczesny - realizacja 4 ćwiczenia - ZDJĘCIA (... ...)
 DTSTART;TZID=Europe/Warsaw:20260504T090000
 DTEND;TZID=Europe/Warsaw:20260504T170000
-UID:202605040900-41732@szkolafilmowa
+UID:202605040900-18881@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -42,7 +42,7 @@ SUMMARY:Film współczesny - realizacja 4 ćwiczenia - POST PRODUKCJA (...
   ...)
 DTSTART;TZID=Europe/Warsaw:20260510T090000
 DTEND;TZID=Europe/Warsaw:20260510T170000
-UID:202605100900-58086@szkolafilmowa
+UID:202605100900-55104@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -51,7 +51,7 @@ SUMMARY:Film współczesny - realizacja 4 ćwiczenia - POST PRODUKCJA (...
   ...)
 DTSTART;TZID=Europe/Warsaw:20260509T090000
 DTEND;TZID=Europe/Warsaw:20260509T170000
-UID:202605090900-58086@szkolafilmowa
+UID:202605090900-55104@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -60,7 +60,7 @@ SUMMARY:Film współczesny - realizacja 4 ćwiczenia - POST PRODUKCJA (...
   ...)
 DTSTART;TZID=Europe/Warsaw:20260508T090000
 DTEND;TZID=Europe/Warsaw:20260508T170000
-UID:202605080900-58086@szkolafilmowa
+UID:202605080900-55104@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -69,7 +69,7 @@ SUMMARY:Film współczesny - realizacja 4 ćwiczenia - POST PRODUKCJA (...
   ...)
 DTSTART;TZID=Europe/Warsaw:20260512T090000
 DTEND;TZID=Europe/Warsaw:20260512T170000
-UID:202605120900-58086@szkolafilmowa
+UID:202605120900-55104@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -78,7 +78,7 @@ SUMMARY:Film współczesny - realizacja 4 ćwiczenia - POST PRODUKCJA (...
   ...)
 DTSTART;TZID=Europe/Warsaw:20260511T090000
 DTEND;TZID=Europe/Warsaw:20260511T170000
-UID:202605110900-58086@szkolafilmowa
+UID:202605110900-55104@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:Plener
 END:VEVENT
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260515T090000
 DTEND;TZID=Europe/Warsaw:20260515T103000
-UID:202605150900-33181@szkolafilmowa
+UID:202605150900-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260515T104500
 DTEND;TZID=Europe/Warsaw:20260515T121500
-UID:202605151045-33181@szkolafilmowa
+UID:202605151045-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260515T141500
 DTEND;TZID=Europe/Warsaw:20260515T154500
-UID:202605151415-33181@szkolafilmowa
+UID:202605151415-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260515T123000
 DTEND;TZID=Europe/Warsaw:20260515T140000
-UID:202605151230-33181@szkolafilmowa
+UID:202605151230-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Analizy montażowe (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260514T104500
 DTEND;TZID=Europe/Warsaw:20260514T121500
-UID:202605141045-66861@szkolafilmowa
+UID:202605141045-9771@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Analizy montażowe (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260514T090000
 DTEND;TZID=Europe/Warsaw:20260514T103000
-UID:202605140900-66861@szkolafilmowa
+UID:202605140900-9771@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Workflow (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260513T174500
 DTEND;TZID=Europe/Warsaw:20260513T191500
-UID:202605131745-78507@szkolafilmowa
+UID:202605131745-46563@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Workflow (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260513T160000
 DTEND;TZID=Europe/Warsaw:20260513T173000
-UID:202605131600-78507@szkolafilmowa
+UID:202605131600-46563@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Film współczesny - ćwiczenie nr 4 (dr Maciej Ślesicki)
 DTSTART;TZID=Europe/Warsaw:20260513T110000
 DTEND;TZID=Europe/Warsaw:20260513T160000
-UID:202605131100-57329@szkolafilmowa
+UID:202605131100-23555@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Maciej Ślesicki
 LOCATION:KINO
 END:VEVENT
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Realizacja dźwięku w filmie (mgr Piotr Majchrzak)
 DTSTART;TZID=Europe/Warsaw:20260518T123000
 DTEND;TZID=Europe/Warsaw:20260518T144500
-UID:202605181230-47774@szkolafilmowa
+UID:202605181230-33684@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Majchrzak
 LOCATION:LAB 3
 END:VEVENT
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Dzień postprodukcji (... ...)
 DTSTART;TZID=Europe/Warsaw:20260522T090000
 DTEND;TZID=Europe/Warsaw:20260522T170000
-UID:202605220900-63019@szkolafilmowa
+UID:202605220900-11417@szkolafilmowa
 DESCRIPTION:Prowadzący: ... ...
 LOCATION:KINO
 END:VEVENT
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Język filmu i wizualizacja (mgr Marek Brodzki)
 DTSTART;TZID=Europe/Warsaw:20260519T104500
 DTEND;TZID=Europe/Warsaw:20260519T121500
-UID:202605191045-19187@szkolafilmowa
+UID:202605191045-74936@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Marek Brodzki
 LOCATION:K2
 END:VEVENT
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Język filmu i wizualizacja (mgr Marek Brodzki)
 DTSTART;TZID=Europe/Warsaw:20260519T090000
 DTEND;TZID=Europe/Warsaw:20260519T103000
-UID:202605190900-19187@szkolafilmowa
+UID:202605190900-74936@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Marek Brodzki
 LOCATION:K2
 END:VEVENT
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Producenckie aspekty filmu (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20260520T181500
 DTEND;TZID=Europe/Warsaw:20260520T194500
-UID:202605201815-40661@szkolafilmowa
+UID:202605201815-29296@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K2
 END:VEVENT
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Producenckie aspekty filmu (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20260520T163000
 DTEND;TZID=Europe/Warsaw:20260520T180000
-UID:202605201630-40661@szkolafilmowa
+UID:202605201630-29296@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K2
 END:VEVENT
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260521T104500
 DTEND;TZID=Europe/Warsaw:20260521T121500
-UID:202605211045-33181@szkolafilmowa
+UID:202605211045-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260521T090000
 DTEND;TZID=Europe/Warsaw:20260521T103000
-UID:202605210900-33181@szkolafilmowa
+UID:202605210900-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260521T141500
 DTEND;TZID=Europe/Warsaw:20260521T154500
-UID:202605211415-33181@szkolafilmowa
+UID:202605211415-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260521T123000
 DTEND;TZID=Europe/Warsaw:20260521T140000
-UID:202605211230-33181@szkolafilmowa
+UID:202605211230-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Analizy montażowe (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260519T141500
 DTEND;TZID=Europe/Warsaw:20260519T154500
-UID:202605191415-66861@szkolafilmowa
+UID:202605191415-9771@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Analizy montażowe (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260519T123000
 DTEND;TZID=Europe/Warsaw:20260519T140000
-UID:202605191230-66861@szkolafilmowa
+UID:202605191230-9771@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy pracy z kamerą (dr Wojciech Rawecki)
 DTSTART;TZID=Europe/Warsaw:20260518T104500
 DTEND;TZID=Europe/Warsaw:20260518T121500
-UID:202605181045-63613@szkolafilmowa
+UID:202605181045-88563@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Wojciech Rawecki
 LOCATION:S1
 END:VEVENT
@@ -262,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Podstawy pracy z kamerą (dr Wojciech Rawecki)
 DTSTART;TZID=Europe/Warsaw:20260518T090000
 DTEND;TZID=Europe/Warsaw:20260518T103000
-UID:202605180900-63613@szkolafilmowa
+UID:202605180900-88563@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Wojciech Rawecki
 LOCATION:S1
 END:VEVENT
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Workflow (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260519T180000
 DTEND;TZID=Europe/Warsaw:20260519T193000
-UID:202605191800-78507@szkolafilmowa
+UID:202605191800-46563@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Workflow (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260519T161500
 DTEND;TZID=Europe/Warsaw:20260519T174500
-UID:202605191615-78507@szkolafilmowa
+UID:202605191615-46563@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Co to jest film? (Mateusz Motyka)
 DTSTART;TZID=Europe/Warsaw:20260528T104500
 DTEND;TZID=Europe/Warsaw:20260528T121500
-UID:202605281045-26867@szkolafilmowa
+UID:202605281045-77480@szkolafilmowa
 DESCRIPTION:Prowadzący: Mateusz Motyka
 LOCATION:K2
 END:VEVENT
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Co to jest film? (Mateusz Motyka)
 DTSTART;TZID=Europe/Warsaw:20260528T090000
 DTEND;TZID=Europe/Warsaw:20260528T103000
-UID:202605280900-26867@szkolafilmowa
+UID:202605280900-77480@szkolafilmowa
 DESCRIPTION:Prowadzący: Mateusz Motyka
 LOCATION:K2
 END:VEVENT
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Co to jest film? (Vladyslav Deva)
 DTSTART;TZID=Europe/Warsaw:20260528T104500
 DTEND;TZID=Europe/Warsaw:20260528T121500
-UID:202605281045-32318@szkolafilmowa
+UID:202605281045-36602@szkolafilmowa
 DESCRIPTION:Prowadzący: Vladyslav Deva
 LOCATION:K2
 END:VEVENT
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Co to jest film? (Vladyslav Deva)
 DTSTART;TZID=Europe/Warsaw:20260528T090000
 DTEND;TZID=Europe/Warsaw:20260528T103000
-UID:202605280900-32318@szkolafilmowa
+UID:202605280900-36602@szkolafilmowa
 DESCRIPTION:Prowadzący: Vladyslav Deva
 LOCATION:K2
 END:VEVENT
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia monograficzne (dr Wojciech Rawecki)
 DTSTART;TZID=Europe/Warsaw:20260526T144500
 DTEND;TZID=Europe/Warsaw:20260526T161500
-UID:202605261445-80980@szkolafilmowa
+UID:202605261445-30917@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Wojciech Rawecki
 LOCATION:S1
 END:VEVENT
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Zajęcia monograficzne (dr Wojciech Rawecki)
 DTSTART;TZID=Europe/Warsaw:20260526T130000
 DTEND;TZID=Europe/Warsaw:20260526T143000
-UID:202605261300-80980@szkolafilmowa
+UID:202605261300-30917@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Wojciech Rawecki
 LOCATION:S1
 END:VEVENT
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Realizacja dźwięku w filmie (mgr Piotr Majchrzak)
 DTSTART;TZID=Europe/Warsaw:20260527T140000
 DTEND;TZID=Europe/Warsaw:20260527T161500
-UID:202605271400-47774@szkolafilmowa
+UID:202605271400-33684@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Majchrzak
 LOCATION:LAB 3
 END:VEVENT
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Język filmu i wizualizacja (mgr Marek Brodzki)
 DTSTART;TZID=Europe/Warsaw:20260528T144500
 DTEND;TZID=Europe/Warsaw:20260528T161500
-UID:202605281445-19187@szkolafilmowa
+UID:202605281445-74936@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Marek Brodzki
 LOCATION:K2
 END:VEVENT
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Język filmu i wizualizacja (mgr Marek Brodzki)
 DTSTART;TZID=Europe/Warsaw:20260528T130000
 DTEND;TZID=Europe/Warsaw:20260528T143000
-UID:202605281300-19187@szkolafilmowa
+UID:202605281300-74936@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Marek Brodzki
 LOCATION:K2
 END:VEVENT
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Projekcje filmowe z omówieniem (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20260525T090000
 DTEND;TZID=Europe/Warsaw:20260525T103000
-UID:202605250900-79813@szkolafilmowa
+UID:202605250900-36496@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Projekcje filmowe z omówieniem (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20260525T104500
 DTEND;TZID=Europe/Warsaw:20260525T121500
-UID:202605251045-79813@szkolafilmowa
+UID:202605251045-36496@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:KINO
 END:VEVENT
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Projekcje filmowe z omówieniem (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20260526T104500
 DTEND;TZID=Europe/Warsaw:20260526T121500
-UID:202605261045-79813@szkolafilmowa
+UID:202605261045-36496@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:K1
 END:VEVENT
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Projekcje filmowe z omówieniem (dr Robert Wichrowski)
 DTSTART;TZID=Europe/Warsaw:20260526T090000
 DTEND;TZID=Europe/Warsaw:20260526T103000
-UID:202605260900-79813@szkolafilmowa
+UID:202605260900-36496@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Robert Wichrowski
 LOCATION:K1
 END:VEVENT
@@ -390,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Producenckie aspekty filmu (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20260527T163000
 DTEND;TZID=Europe/Warsaw:20260527T180000
-UID:202605271630-40661@szkolafilmowa
+UID:202605271630-29296@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K1
 END:VEVENT
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Producenckie aspekty filmu (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20260527T181500
 DTEND;TZID=Europe/Warsaw:20260527T194500
-UID:202605271815-40661@szkolafilmowa
+UID:202605271815-29296@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K1
 END:VEVENT
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260529T090000
 DTEND;TZID=Europe/Warsaw:20260529T103000
-UID:202605290900-33181@szkolafilmowa
+UID:202605290900-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260529T104500
 DTEND;TZID=Europe/Warsaw:20260529T121500
-UID:202605291045-33181@szkolafilmowa
+UID:202605291045-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -422,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260529T141500
 DTEND;TZID=Europe/Warsaw:20260529T154500
-UID:202605291415-33181@szkolafilmowa
+UID:202605291415-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260529T123000
 DTEND;TZID=Europe/Warsaw:20260529T140000
-UID:202605291230-33181@szkolafilmowa
+UID:202605291230-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:Film roczny - egzamin (dr Maciej Ślesicki)
 DTSTART;TZID=Europe/Warsaw:20260603T100000
 DTEND;TZID=Europe/Warsaw:20260603T160000
-UID:202606031000-68880@szkolafilmowa
+UID:202606031000-56935@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Maciej Ślesicki
 LOCATION:KINO
 END:VEVENT
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Film roczny - egzamin (dr Maciej Ślesicki)
 DTSTART;TZID=Europe/Warsaw:20260602T100000
 DTEND;TZID=Europe/Warsaw:20260602T160000
-UID:202606021000-68880@szkolafilmowa
+UID:202606021000-56935@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Maciej Ślesicki
 LOCATION:KINO
 END:VEVENT
@@ -454,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:Film roczny - egzamin (dr Maciej Ślesicki)
 DTSTART;TZID=Europe/Warsaw:20260601T100000
 DTEND;TZID=Europe/Warsaw:20260601T160000
-UID:202606011000-68880@szkolafilmowa
+UID:202606011000-56935@szkolafilmowa
 DESCRIPTION:Prowadzący: dr Maciej Ślesicki
 LOCATION:KINO
 END:VEVENT
@@ -462,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Co to jest film? (Mateusz Motyka)
 DTSTART;TZID=Europe/Warsaw:20260610T150000
 DTEND;TZID=Europe/Warsaw:20260610T163000
-UID:202606101500-26867@szkolafilmowa
+UID:202606101500-77480@szkolafilmowa
 DESCRIPTION:Prowadzący: Mateusz Motyka
 LOCATION:W9
 END:VEVENT
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:Co to jest film? (Mateusz Motyka)
 DTSTART;TZID=Europe/Warsaw:20260610T131500
 DTEND;TZID=Europe/Warsaw:20260610T144500
-UID:202606101315-26867@szkolafilmowa
+UID:202606101315-77480@szkolafilmowa
 DESCRIPTION:Prowadzący: Mateusz Motyka
 LOCATION:W9
 END:VEVENT
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Co to jest film? (Vladyslav Deva)
 DTSTART;TZID=Europe/Warsaw:20260610T150000
 DTEND;TZID=Europe/Warsaw:20260610T163000
-UID:202606101500-32318@szkolafilmowa
+UID:202606101500-36602@szkolafilmowa
 DESCRIPTION:Prowadzący: Vladyslav Deva
 LOCATION:W9
 END:VEVENT
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Co to jest film? (Vladyslav Deva)
 DTSTART;TZID=Europe/Warsaw:20260610T131500
 DTEND;TZID=Europe/Warsaw:20260610T144500
-UID:202606101315-32318@szkolafilmowa
+UID:202606101315-36602@szkolafilmowa
 DESCRIPTION:Prowadzący: Vladyslav Deva
 LOCATION:W9
 END:VEVENT
@@ -494,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:Realizacja dźwięku w filmie (mgr Piotr Majchrzak)
 DTSTART;TZID=Europe/Warsaw:20260609T130000
 DTEND;TZID=Europe/Warsaw:20260609T151500
-UID:202606091300-47774@szkolafilmowa
+UID:202606091300-33684@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Majchrzak
 LOCATION:LAB 3
 END:VEVENT
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:Język filmu i wizualizacja (mgr Marek Brodzki)
 DTSTART;TZID=Europe/Warsaw:20260609T111500
 DTEND;TZID=Europe/Warsaw:20260609T124500
-UID:202606091115-19187@szkolafilmowa
+UID:202606091115-74936@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Marek Brodzki
 LOCATION:K2
 END:VEVENT
@@ -510,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Język filmu i wizualizacja (mgr Marek Brodzki)
 DTSTART;TZID=Europe/Warsaw:20260609T093000
 DTEND;TZID=Europe/Warsaw:20260609T110000
-UID:202606090930-19187@szkolafilmowa
+UID:202606090930-74936@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Marek Brodzki
 LOCATION:K2
 END:VEVENT
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:Producenckie aspekty filmu (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20260610T181500
 DTEND;TZID=Europe/Warsaw:20260610T194500
-UID:202606101815-40661@szkolafilmowa
+UID:202606101815-29296@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K2
 END:VEVENT
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:Producenckie aspekty filmu (Stanisław Krzemiński)
 DTSTART;TZID=Europe/Warsaw:20260610T163000
 DTEND;TZID=Europe/Warsaw:20260610T180000
-UID:202606101630-40661@szkolafilmowa
+UID:202606101630-29296@szkolafilmowa
 DESCRIPTION:Prowadzący: Stanisław Krzemiński
 LOCATION:K2
 END:VEVENT
@@ -534,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260612T090000
 DTEND;TZID=Europe/Warsaw:20260612T103000
-UID:202606120900-33181@szkolafilmowa
+UID:202606120900-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -542,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260612T104500
 DTEND;TZID=Europe/Warsaw:20260612T121500
-UID:202606121045-33181@szkolafilmowa
+UID:202606121045-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -550,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260612T141500
 DTEND;TZID=Europe/Warsaw:20260612T154500
-UID:202606121415-33181@szkolafilmowa
+UID:202606121415-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260612T123000
 DTEND;TZID=Europe/Warsaw:20260612T140000
-UID:202606121230-33181@szkolafilmowa
+UID:202606121230-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -566,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:Analizy montażowe (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260611T111500
 DTEND;TZID=Europe/Warsaw:20260611T124500
-UID:202606111115-66861@szkolafilmowa
+UID:202606111115-9771@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:Analizy montażowe (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260611T093000
 DTEND;TZID=Europe/Warsaw:20260611T110000
-UID:202606110930-66861@szkolafilmowa
+UID:202606110930-9771@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -582,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:Język filmu i wizualizacja (mgr Marek Brodzki)
 DTSTART;TZID=Europe/Warsaw:20260617T164500
 DTEND;TZID=Europe/Warsaw:20260617T181500
-UID:202606171645-19187@szkolafilmowa
+UID:202606171645-74936@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Marek Brodzki
 LOCATION:W9
 END:VEVENT
@@ -590,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:Język filmu i wizualizacja (mgr Marek Brodzki)
 DTSTART;TZID=Europe/Warsaw:20260617T150000
 DTEND;TZID=Europe/Warsaw:20260617T163000
-UID:202606171500-19187@szkolafilmowa
+UID:202606171500-74936@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Marek Brodzki
 LOCATION:W9
 END:VEVENT
@@ -598,7 +598,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260619T090000
 DTEND;TZID=Europe/Warsaw:20260619T103000
-UID:202606190900-33181@szkolafilmowa
+UID:202606190900-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -606,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260619T104500
 DTEND;TZID=Europe/Warsaw:20260619T121500
-UID:202606191045-33181@szkolafilmowa
+UID:202606191045-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -614,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260619T141500
 DTEND;TZID=Europe/Warsaw:20260619T154500
-UID:202606191415-33181@szkolafilmowa
+UID:202606191415-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -622,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:Wprowadzenie do filmu i montażu (Ireneusz Grzyb)
 DTSTART;TZID=Europe/Warsaw:20260619T123000
 DTEND;TZID=Europe/Warsaw:20260619T140000
-UID:202606191230-33181@szkolafilmowa
+UID:202606191230-42254@szkolafilmowa
 DESCRIPTION:Prowadzący: Ireneusz Grzyb
 LOCATION:M 1
 END:VEVENT
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:Workflow (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260616T114500
 DTEND;TZID=Europe/Warsaw:20260616T131500
-UID:202606161145-78507@szkolafilmowa
+UID:202606161145-46563@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -638,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:Workflow (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260616T100000
 DTEND;TZID=Europe/Warsaw:20260616T113000
-UID:202606161000-78507@szkolafilmowa
+UID:202606161000-46563@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:LAB 4
 END:VEVENT
@@ -646,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:Film współczesny (mgr Piotr Gorszczyński)
 DTSTART;TZID=Europe/Warsaw:20260629T110000
 DTEND;TZID=Europe/Warsaw:20260629T144500
-UID:202606291100-64097@szkolafilmowa
+UID:202606291100-14393@szkolafilmowa
 DESCRIPTION:Prowadzący: mgr Piotr Gorszczyński
 LOCATION:KINO
 END:VEVENT
